@@ -19,12 +19,12 @@
 
 
 
-运行截图：
+   运行截图：
 
-![1.1-scanner](.\pic\1.1-scanner.png)
+   ![1.1-scanner](.\pic\1.1-scanner.png)
 
-Nmap运行截图：
-										![1.2-nmap](.\pic\1.2-nmap.png)
+   Nmap运行截图：
+   ![1.2-nmap](.\pic\1.2-nmap.png)
 
 
 ### 2、sniffer(网络嗅探器)
