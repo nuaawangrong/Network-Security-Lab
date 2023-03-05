@@ -12,6 +12,8 @@
 
 ## 实验运行截图
 
+实验截图为相对地址，请下载项目后在本地查看！！！
+
 ### 1、scanner(简单网络主机扫描程序)
 一个使用C语言编写的在Linux环境下扫描局域网内主机的程序，主要功能为显示局域网内的主机IP地址列表，并显示主机开放的端口。
 
@@ -31,19 +33,17 @@ Nmap运行截图：
 
 
 
-1.  ICMP数据包显示
+1. ICMP数据包显示
 
    运行截图：
 
-![2.1-sniffer_ICMP](.\pic\2.1-sniffer_ICMP.png)
+   ![2.1-sniffer_ICMP](.\pic\2.1-sniffer_ICMP.png)
+   
+   Wireshark运行截图：
 
-​			
+   ![2.2-wireshark_ICMP](.\pic\2.2-wireshark_ICMP.png)
 
-​		Wireshark运行截图：
-
-​			![2.2-wireshark_ICMP](.\pic\2.2-wireshark_ICMP.png)
-
-2.  UDP数据包显示
+2. UDP数据包显示
 
    运行截图：
 
